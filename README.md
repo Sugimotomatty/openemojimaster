@@ -1,3 +1,7 @@
+generative NFTに関するdapp universityの講座をワークショップにてやりました。
+主にコードはdapp universityより引用させていただいておりますが一部変更しております。
+
+
 # Generative NFTs
 
 ## Technology Stack & Tools
